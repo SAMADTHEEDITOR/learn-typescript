@@ -1,4 +1,4 @@
-let teacher = {
+mfiwpkopzppajmOjfwduqdqnwdaxkoUSANJiindnsdk1310100110010100000111111111111111100101001011111111111000010011001010101010101100001010110110101010let teacher = {
     name: "Zeeshan",
     experience: "10"
 }
